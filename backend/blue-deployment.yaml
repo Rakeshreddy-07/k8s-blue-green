@@ -28,3 +28,6 @@ spec:
       containers:
       - name: backend
         image: rakeshreddy07/backend:1.0.0
+        envFrom:
+        - configMapRef:
+            name: backend
