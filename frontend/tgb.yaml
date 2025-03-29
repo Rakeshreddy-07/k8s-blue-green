@@ -6,4 +6,4 @@ spec:
   serviceRef:
     name: frontend
     port: 80
-  targetGroupARN: arn:aws:elasticloadbalancing:us-east-1:361769572747:targetgroup/expense-dev/90b2094ce4e296b9
+  targetGroupARN: arn:aws:elasticloadbalancing:us-east-1:361769572747:targetgroup/expense-dev/931523944ef99dc1
